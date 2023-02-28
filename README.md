@@ -35,3 +35,6 @@ sudo python test2.py
 
 
 
+### Attention
+
+This is for experimentation only, please try it with your own personal device. Do not launch malicious attacks on others.
